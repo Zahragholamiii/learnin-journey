@@ -1,2 +1,2 @@
-# learnin-journey
-My journey tol learn programming and AI
+# learning-journey
+My journey to learn programming and AI
